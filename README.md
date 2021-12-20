@@ -1,5 +1,7 @@
 # Fampay Externship
 
+Hosted URL: https://exp.host/@jaaaay7/fampay-extern
+
 ## Running the application
 
 Clone the repository ```git clone https://github.com/Jaay7/fampay-extern.git```
